@@ -1,2 +1,2 @@
 # Computing2
-Solutions
+Solutions for Computing2 - Meant to be used as examples of solutions for questions
